@@ -18,10 +18,12 @@ public class Practice11 {
 		rev=(rem*rem*rem)+rev;
 	}
 	if(c==rev)	{
-		System.out.println("number is anstrong");
+		System.out.println("amstrong");
 	}else {
 		System.out.println("not");
 	}
+	System.out.println("this is my fisrt program");
+	System.out.println("but changes can be happning");
 		
 		
 		
